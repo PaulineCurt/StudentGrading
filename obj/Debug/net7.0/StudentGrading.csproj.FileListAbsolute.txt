@@ -1,0 +1,14 @@
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\bin\Debug\net7.0\StudentGrading.exe
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\bin\Debug\net7.0\StudentGrading.deps.json
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\bin\Debug\net7.0\StudentGrading.runtimeconfig.json
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\bin\Debug\net7.0\StudentGrading.dll
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\bin\Debug\net7.0\StudentGrading.pdb
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\obj\Debug\net7.0\StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\obj\Debug\net7.0\StudentGrading.AssemblyInfoInputs.cache
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\obj\Debug\net7.0\StudentGrading.AssemblyInfo.cs
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\obj\Debug\net7.0\StudentGrading.csproj.CoreCompileInputs.cache
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\obj\Debug\net7.0\StudentGrading.dll
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\obj\Debug\net7.0\refint\StudentGrading.dll
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\obj\Debug\net7.0\StudentGrading.pdb
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\obj\Debug\net7.0\StudentGrading.genruntimeconfig.cache
+C:\Users\curtp\OneDrive\Bureau\C-SHARP\StudentGrading\obj\Debug\net7.0\ref\StudentGrading.dll
